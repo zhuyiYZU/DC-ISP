@@ -1,0 +1,382 @@
+JD_Homophone, step1-2 runtime: 33.27143573760986
+JD_Homophone, step3 runtime: 109.95184016227722
+JD_Homophone, step4 runtime: 0.0707857608795166
+JD_Homophone, step5 runtime: 0.6503479480743408
+JD_Homophone, step1-2 runtime: 33.41401124000549
+JD_Homophone, step1-2 runtime: 33.690502882003784
+JD_Homophone, step3 runtime: 106.1496331691742
+JD_Homophone, step1-2 runtime: 33.33675718307495
+JD_Homophone, step3 runtime: 417.1294982433319
+JD_Homophone, step4 runtime: 0.1950550079345703
+JD_Homophone, step5 runtime: 0.5226454734802246
+JD_Homophone, step5 runtime: 0.2479405403137207
+JD_Homophone, step6 runtime: 149.3502579689026
+
+JD_Homophone, step1-2 runtime: 33.197938442230225
+JD_Homophone, step3 runtime: 493.1890368461609
+JD_Homophone, step4 runtime: 0.22521638870239258
+JD_Homophone, step5 runtime: 0.5729148387908936
+JD_Homophone, step6 runtime: 136.91962122917175
+
+JD_Morphonym, step1-2 runtime: 35.532928705215454
+JD_Morphonym, step3 runtime: 527.6730585098267
+JD_Morphonym, step4 runtime: 0.2338414192199707
+JD_Morphonym, step5 runtime: 0.5741214752197266
+JD_Morphonym, step6 runtime: 152.82528433799746
+
+CT_Morphonym, step1-2 runtime: 216.7818169593811
+CT_Morphonym, step3 runtime: 703.2969741821289
+CT_Morphonym, step4 runtime: 0.4114363193511963
+CT_Morphonym, step5 runtime: 1.0081181526184082
+CT_Morphonym, step6 runtime: 190.5391827106476
+
+CT_Homophone, step1-2 runtime: 199.48323154449463
+CT_Homophone, step3 runtime: 684.5341374874115
+CT_Homophone, step4 runtime: 0.3750617504119873
+CT_Homophone, step5 runtime: 0.6856484413146973
+CT_Homophone, step6 runtime: 183.57124371528624
+
+CT_Homophone, step1-2 runtime: 216.04312753677368
+CT_Homophone, step3 runtime: 690.9905233383179
+CT_Homophone, step4 runtime: 0.39455437660217285
+CT_Homophone, step5 runtime: 1.0463497638702393
+CT_Homophone, step6 runtime: 189.23333673477174
+
+JD_Hownet, step1-2 runtime: 30.190074682235718
+JD_Hownet, step3 runtime: 241481.89049768448
+JD_Hownet, step4 runtime: 0.20598292350769043
+JD_Hownet, step5 runtime: 0.4751620292663574
+JD_Hownet, step6 runtime: 34515.32393960953
+
+CT_Morphonym, step1-2 runtime: 169.3560333251953
+CT_Morphonym, step3 runtime: 374615.3993127346
+CT_Morphonym, step4 runtime: 0.3667936325073242
+CT_Morphonym, step5 runtime: 1.0453171730041504
+CT_Morphonym, step6 runtime: 69164.01544375421
+
+CT_Morphonym, step1-2 runtime: 218.44942688941956
+CT_Morphonym, step3 runtime: 139.42058992385864
+CT_Morphonym, step4 runtime: 0.16909050941467285
+CT_Morphonym, step5 runtime: 1.2817833423614502
+CT_Morphonym, step3 runtime: 133.47791266441345
+CT_Morphonym, step4 runtime: 0.23214936256408691
+CT_Morphonym, step5 runtime: 0.9921560287475586
+CT_Morphonym, step5 runtime: 1.1449744701385498
+CT_Morphonym, step6 runtime: 186.06033139228822
+
+CT_Morphonym, step3 runtime: 141.53431940078735
+CT_Morphonym, step5 runtime: 1.1163718700408936
+CT_Morphonym, step6 runtime: 187.30734715461733
+
+CT_Morphonym, step3 runtime: 145.96642398834229
+CT_Morphonym, step4 runtime: 0.36423754692077637
+CT_Morphonym, step5 runtime: 1.0288770198822021
+CT_Morphonym, step6 runtime: 187.62820444107058
+
+CT_Morphonym, step3 runtime: 147.46334767341614
+CT_Morphonym, step4 runtime: 0.431943416595459
+CT_Morphonym, step5 runtime: 1.0302791595458984
+CT_Morphonym, step6 runtime: 186.42278008461
+
+CT_Hownet, step1-2 runtime: 173.76387524604797
+CT_Hownet, step3 runtime: 137.36427235603333
+CT_Hownet, step4 runtime: 0.14852380752563477
+CT_Hownet, step5 runtime: 1.0913379192352295
+CT_Hownet, step6 runtime: 166.51484913825988
+
+CT_Hownet, step3 runtime: 139.23096418380737
+CT_Hownet, step5 runtime: 1.0061461925506592
+CT_Hownet, step6 runtime: 183.52700185775757
+
+CT_Hownet, step3 runtime: 134.5732078552246
+CT_Hownet, step5 runtime: 1.0015170574188232
+CT_Hownet, step6 runtime: 184.84695324897768
+
+CT_Hownet, step3 runtime: 132.49962902069092
+CT_Hownet, step5 runtime: 1.0138802528381348
+CT_Hownet, step6 runtime: 184.66958727836607
+
+CT_Hownet, step3 runtime: 132.95248675346375
+CT_Hownet, step5 runtime: 1.0027427673339844
+CT_Hownet, step6 runtime: 174.7465699195862
+
+CT_MLM, step1-2 runtime: 142.47693943977356
+CT_MLM, step3 runtime: 133.2504322528839
+CT_MLM, step4 runtime: 0.1310582160949707
+CT_MLM, step5 runtime: 1.0280802249908447
+CT_MLM, step6 runtime: 165.314173078537
+
+CT_MLM, step3 runtime: 125.83865809440613
+CT_MLM, step4 runtime: 0.18925809860229492
+CT_MLM, step5 runtime: 0.9294500350952148
+CT_MLM, step6 runtime: 173.93577046394347
+
+CT_MLM, step3 runtime: 125.93184781074524
+CT_MLM, step4 runtime: 0.24788236618041992
+CT_MLM, step5 runtime: 0.9126074314117432
+CT_MLM, step6 runtime: 172.56270346641543
+
+CT_MLM, step3 runtime: 133.27670240402222
+CT_MLM, step4 runtime: 0.29281115531921387
+CT_MLM, step5 runtime: 0.9013376235961914
+CT_MLM, step6 runtime: 178.50295457839968
+
+CT_MLM, step3 runtime: 133.6734254360199
+CT_MLM, step4 runtime: 0.35866618156433105
+CT_MLM, step5 runtime: 0.844883918762207
+CT_MLM, step6 runtime: 167.3255292892456
+
+CT_Comp, step1-2 runtime: 141.55195546150208
+CT_Comp, step3 runtime: 131.28086519241333
+CT_Comp, step4 runtime: 0.13370919227600098
+CT_Comp, step5 runtime: 1.0505783557891846
+CT_Comp, step6 runtime: 163.2357590675354
+
+CT_Comp, step3 runtime: 136.3816204071045
+CT_Comp, step4 runtime: 0.18578886985778809
+CT_Comp, step5 runtime: 0.92228102684021
+CT_Comp, step6 runtime: 173.22311396598815
+
+CT_Comp, step1-2 runtime: 143.13287782669067
+CT_Comp, step3 runtime: 406.12578201293945
+CT_Comp, step4 runtime: 0.24380040168762207
+CT_Comp, step5 runtime: 0.9297175407409668
+CT_Comp, step6 runtime: 161.63002066612245
+
+CT_Comp, step3 runtime: 135.16830945014954
+CT_Comp, step4 runtime: 0.29912352561950684
+CT_Comp, step5 runtime: 0.8702113628387451
+CT_Comp, step6 runtime: 168.46603031158446
+
+CT_Comp, step3 runtime: 132.70745658874512
+CT_Comp, step4 runtime: 0.38135719299316406
+CT_Comp, step5 runtime: 0.885061502456665
+CT_Comp, step6 runtime: 176.97222976684571
+
+JD_Homophone, step1-2 runtime: 33.5504834651947
+JD_Homophone, step3 runtime: 104.57741045951843
+JD_Homophone, step4 runtime: 0.06869816780090332
+JD_Homophone, step5 runtime: 0.585228681564331
+JD_Homophone, step6 runtime: 136.89363527297974
+
+JD_Homophone, step3 runtime: 94.12276911735535
+JD_Homophone, step4 runtime: 0.12178611755371094
+JD_Homophone, step5 runtime: 0.5818243026733398
+JD_Homophone, step6 runtime: 139.59376430511475
+
+JD_Homophone, step3 runtime: 103.93739318847656
+JD_Homophone, step4 runtime: 0.13994598388671875
+JD_Homophone, step5 runtime: 0.574993371963501
+JD_Homophone, step6 runtime: 142.57273135185244
+
+JD_Homophone, step3 runtime: 94.77860355377197
+JD_Homophone, step4 runtime: 0.1875443458557129
+JD_Homophone, step5 runtime: 0.5870602130889893
+JD_Homophone, step6 runtime: 141.13345427513121
+
+JD_Homophone, step3 runtime: 102.16783952713013
+JD_Homophone, step4 runtime: 0.2589998245239258
+JD_Homophone, step5 runtime: 0.5858578681945801
+JD_Homophone, step6 runtime: 141.6463469982147
+
+JD_Morphonym, step1-2 runtime: 35.39870572090149
+JD_Morphonym, step3 runtime: 102.95525169372559
+JD_Morphonym, step4 runtime: 0.07482433319091797
+JD_Morphonym, step5 runtime: 0.6478598117828369
+JD_Morphonym, step6 runtime: 137.0786846637726
+
+JD_Morphonym, step3 runtime: 107.92718982696533
+JD_Morphonym, step4 runtime: 0.11346006393432617
+JD_Morphonym, step5 runtime: 0.5957083702087402
+JD_Morphonym, step6 runtime: 139.58190393447876
+
+JD_Morphonym, step3 runtime: 113.00598621368408
+JD_Morphonym, step4 runtime: 0.16658949851989746
+JD_Morphonym, step5 runtime: 0.5837428569793701
+JD_Morphonym, step6 runtime: 136.6617446422577
+
+JD_Morphonym, step3 runtime: 112.72623467445374
+JD_Morphonym, step4 runtime: 0.19630765914916992
+JD_Morphonym, step5 runtime: 0.5798580646514893
+JD_Morphonym, step6 runtime: 137.30775318145754
+
+JD_Morphonym, step3 runtime: 103.37022256851196
+JD_Morphonym, step4 runtime: 0.2348320484161377
+JD_Morphonym, step5 runtime: 0.5747346878051758
+JD_Morphonym, step6 runtime: 146.99167957305906
+
+JD_Hownet, step1-2 runtime: 37.86531925201416
+JD_Hownet, step3 runtime: 101.1909692287445
+JD_Hownet, step4 runtime: 0.07271075248718262
+JD_Hownet, step5 runtime: 0.6345579624176025
+JD_Hownet, step6 runtime: 138.8132373332977
+
+JD_Hownet, step3 runtime: 105.50653576850891
+JD_Hownet, step4 runtime: 0.11372756958007812
+JD_Hownet, step5 runtime: 0.5472631454467773
+JD_Hownet, step6 runtime: 132.51550168991088
+
+JD_Hownet, step3 runtime: 105.7705590724945
+JD_Hownet, step4 runtime: 0.18020248413085938
+JD_Hownet, step5 runtime: 0.5217502117156982
+JD_Hownet, step6 runtime: 141.79262852668762
+
+JD_Hownet, step3 runtime: 106.20663166046143
+JD_Hownet, step4 runtime: 0.19701123237609863
+JD_Hownet, step5 runtime: 0.5460236072540283
+JD_Hownet, step6 runtime: 146.81604809761046
+
+JD_Hownet, step3 runtime: 114.23597693443298
+JD_Hownet, step4 runtime: 0.23982834815979004
+JD_Hownet, step5 runtime: 0.41460251808166504
+JD_Hownet, step6 runtime: 150.48564591407774
+
+JD_MLM, step1-2 runtime: 36.09086775779724
+JD_MLM, step3 runtime: 110.87194752693176
+JD_MLM, step4 runtime: 0.07222890853881836
+JD_MLM, step5 runtime: 0.623976469039917
+JD_MLM, step6 runtime: 148.59191279411317
+
+JD_MLM, step3 runtime: 110.37613344192505
+JD_MLM, step4 runtime: 0.11142921447753906
+JD_MLM, step5 runtime: 0.5421483516693115
+JD_MLM, step6 runtime: 136.87602467536925
+
+JD_MLM, step3 runtime: 103.18923234939575
+JD_MLM, step4 runtime: 0.15253663063049316
+JD_MLM, step5 runtime: 0.5589232444763184
+JD_MLM, step6 runtime: 147.0306023597717
+
+JD_MLM, step3 runtime: 108.66924786567688
+JD_MLM, step4 runtime: 0.20453691482543945
+JD_MLM, step5 runtime: 0.5327191352844238
+JD_MLM, step6 runtime: 144.94171028137208
+
+JD_MLM, step3 runtime: 103.29110455513
+JD_MLM, step4 runtime: 0.24461579322814941
+JD_MLM, step5 runtime: 0.5746176242828369
+JD_MLM, step6 runtime: 141.0728756904602
+
+JD_Comp, step1-2 runtime: 35.1861789226532
+JD_Comp, step3 runtime: 109.39277744293213
+JD_Comp, step4 runtime: 0.0707552433013916
+JD_Comp, step5 runtime: 0.5949993133544922
+JD_Comp, step6 runtime: 139.67383203506472
+
+JD_Comp, step3 runtime: 102.03367781639099
+JD_Comp, step4 runtime: 0.1125941276550293
+JD_Comp, step5 runtime: 0.5493426322937012
+JD_Comp, step6 runtime: 140.0598117828369
+
+JD_Comp, step3 runtime: 104.91612124443054
+JD_Comp, step4 runtime: 0.15057134628295898
+JD_Comp, step5 runtime: 0.5084266662597656
+JD_Comp, step6 runtime: 140.16087698936462
+
+JD_Comp, step3 runtime: 101.92153191566467
+JD_Comp, step4 runtime: 0.18927359580993652
+JD_Comp, step5 runtime: 0.5139377117156982
+JD_Comp, step6 runtime: 147.38508367538452
+
+JD_Comp, step3 runtime: 104.90106725692749
+JD_Comp, step4 runtime: 0.23238277435302734
+JD_Comp, step5 runtime: 0.42944955825805664
+JD_Comp, step6 runtime: 142.3196763038635
+
+CT_Homophone, step1-2 runtime: 217.09321236610413
+CT_Homophone, step3 runtime: 560.4726252555847
+CT_Homophone, step4 runtime: 0.35933828353881836
+CT_Homophone, step5 runtime: 1.003847360610962
+CT_Homophone, step1-2 runtime: 217.88863229751587
+CT_Homophone, step1-2 runtime: 216.1991832256317
+CT_Homophone, step3 runtime: 564.0910019874573
+CT_Morphonym, step1-2 runtime: 218.5644781589508
+CT_Morphonym, step3 runtime: 558.0403778553009
+CT_Hownet, step1-2 runtime: 182.32613492012024
+CT_Hownet, step3 runtime: 540.5961256027222
+CT_MLM, step1-2 runtime: 148.75902891159058
+CT_MLM, step3 runtime: 528.3401322364807
+CT_Comp, step1-2 runtime: 151.46955275535583
+CT_Comp, step3 runtime: 519.3717377185822
+JD_Homophone, step1-2 runtime: 34.19832491874695
+JD_Homophone, step3 runtime: 419.98613023757935
+JD_Homophone, step4 runtime: 0.18771910667419434
+JD_Homophone, step5 runtime: 0.8090884685516357
+JD_Morphonym, step1-2 runtime: 35.58147072792053
+JD_Morphonym, step3 runtime: 408.6638734340668
+JD_Morphonym, step4 runtime: 0.1833815574645996
+JD_Morphonym, step5 runtime: 0.8504679203033447
+JD_Hownet, step1-2 runtime: 38.07387375831604
+JD_Hownet, step3 runtime: 412.17217540740967
+JD_Hownet, step4 runtime: 0.19056034088134766
+JD_Hownet, step5 runtime: 1.066570520401001
+JD_MLM, step1-2 runtime: 38.63350820541382
+JD_MLM, step3 runtime: 438.3528230190277
+JD_MLM, step4 runtime: 0.1874864101409912
+JD_MLM, step4 runtime: 0.19174766540527344
+JD_MLM, step5 runtime: 0.514256477355957
+JD_Comp, step1-2 runtime: 35.470035791397095
+JD_Comp, step3 runtime: 424.34253096580505
+JD_Comp, step4 runtime: 0.19414687156677246
+JD_Comp, step5 runtime: 0.5713622570037842
+JD_MLM, step1-2 runtime: 36.42608904838562
+JD_MLM, step3 runtime: 432.1613926887512
+JD_MLM, step4 runtime: 0.18352103233337402
+JD_MLM, step5 runtime: 0.4802548885345459
+JD_Homophone, step6 runtime: 142.0565626144409
+
+CT_Homophone, step1-2 runtime: 216.15451216697693
+CT_Homophone, step3 runtime: 584.8624782562256
+CT_Homophone, step4 runtime: 0.392927885055542
+CT_Homophone, step5 runtime: 1.0040712356567383
+CT_Homophone, step6 runtime: 175.2490264892578
+
+CT_Homophone_test, step1-2 runtime: 223.78023171424866
+CT_Homophone_test, step3 runtime: 833.7984621524811
+CT_Homophone_test, step4 runtime: 0.3798253536224365
+CT_Homophone_test, step4 runtime: 0.5645854473114014
+CT_Homophone_test, step5 runtime: 1.1134989261627197
+CT_Homophone_test, step6 runtime: 201.12466621398926
+
+CT_Homophone_test, step1-2 runtime: 218.2799973487854
+CT_Homophone_test, step3 runtime: 292.6049745082855
+CT_Homophone_test, step4 runtime: 0.23293328285217285
+CT_Homophone_test, step4 runtime: 0.23210811614990234
+CT_Homophone_test, step5 runtime: 1.2995409965515137
+CT_Hownet, step1-2 runtime: 174.76187562942505
+CT_Hownet, step3 runtime: 625.3571908473969
+CT_Hownet, step4 runtime: 0.364656925201416
+CT_Hownet, step5 runtime: 0.8719139099121094
+CT_Hownet, step5 runtime: 0.7837674617767334
+CT_Hownet, step6 runtime: 178.28445568084715
+
+CT_Homophone, step1-2 runtime: 214.56476593017578
+CT_Homophone, step3 runtime: 690.4156813621521
+CT_Homophone, step4 runtime: 0.3919799327850342
+CT_Homophone, step5 runtime: 0.9835858345031738
+CT_Homophone, step6 runtime: 188.91956477165223
+
+CT_Homophone, step1-2 runtime: 218.45866298675537
+CT_Homophone, step3 runtime: 702.7825109958649
+CT_Homophone, step4 runtime: 0.4042224884033203
+CT_Homophone, step5 runtime: 0.9747507572174072
+CT_Homophone, step6 runtime: 183.73278923034667
+
+hc3_finance, step1-2 runtime: 0.1560525894165039
+hc3_finance, step3 runtime: 338.15312218666077
+hc3_finance, step4 runtime: 0.011381864547729492
+hc3_finance, step5 runtime: 0.00887751579284668
+hc3_finance, step6 runtime: 106.48915514945985
+
+hc3_finance, step1-2 runtime: 0.04561948776245117
+hc3_finance, step3 runtime: 351.3949513435364
+hc3_finance, step4 runtime: 0.01097726821899414
+hc3_finance, step5 runtime: 0.009295463562011719
+hc3_finance, step6 runtime: 97.88476796150206
+
+hc3_finance, step1-2 runtime: 0.028893470764160156
+hc3_finance, step3 runtime: 340.5688693523407
+hc3_finance, step4 runtime: 0.009563446044921875
+hc3_finance, step5 runtime: 0.009262323379516602
+hc3_finance, step6 runtime: 96.54709525108336
+
