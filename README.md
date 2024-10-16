@@ -16,9 +16,8 @@ Note that the file paths should be changed according to the running environment.
 example shell scripts:
 
 python fewshot.py --result_file ./output_fewshot.txt --dataset newsgroups1 --template_id 0 --seed 144 --shot 20 --verbalizer manual
-python adj_data.py
-python div_data.py
-python itera_model.py
-python adj_label.py
-python voted_label.py
-python final_test.py
+python 1-2.py
+python 3rep_train.py
+python 4ccover.py
+python 5together.py
+python 6final_train.py
